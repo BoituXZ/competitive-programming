@@ -17,10 +17,12 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/BoituXZ/competitive-programming/tree/master/0268-missing-number) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/BoituXZ/competitive-programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/BoituXZ/competitive-programming/tree/master/0268-missing-number) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/BoituXZ/competitive-programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,4 +35,9 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/BoituXZ/competitive-programming/tree/master/0268-missing-number) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/BoituXZ/competitive-programming/tree/master/1354-find-players-with-zero-or-one-losses) |
+## Counting
+|  |
+| ------- |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/BoituXZ/competitive-programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 <!---LeetCode Topics End-->
