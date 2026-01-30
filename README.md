@@ -16,12 +16,14 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/BoituXZ/competitive-programming/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/BoituXZ/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/BoituXZ/competitive-programming/tree/master/0268-missing-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/BoituXZ/competitive-programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/BoituXZ/competitive-programming/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/BoituXZ/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/BoituXZ/competitive-programming/tree/master/0268-missing-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/BoituXZ/competitive-programming/tree/master/1354-find-players-with-zero-or-one-losses) |
