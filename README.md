@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BoituXZ/competitive-programming/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/BoituXZ/competitive-programming/tree/master/0014-longest-common-prefix) |
 | [0169-majority-element](https://github.com/BoituXZ/competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/BoituXZ/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/BoituXZ/competitive-programming/tree/master/0268-missing-number) |
@@ -53,4 +54,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/BoituXZ/competitive-programming/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/BoituXZ/competitive-programming/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/BoituXZ/competitive-programming/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
