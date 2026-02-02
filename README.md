@@ -7,6 +7,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/BoituXZ/competitive-programming/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/BoituXZ/competitive-programming/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/BoituXZ/competitive-programming/tree/master/0412-fizz-buzz) |
 | [2491-smallest-even-multiple](https://github.com/BoituXZ/competitive-programming/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/BoituXZ/competitive-programming/tree/master/2556-convert-the-temperature) |
 ## Number Theory
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/BoituXZ/competitive-programming/tree/master/0014-longest-common-prefix) |
+| [0412-fizz-buzz](https://github.com/BoituXZ/competitive-programming/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
@@ -68,4 +70,8 @@
 |  |
 | ------- |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/BoituXZ/competitive-programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/BoituXZ/competitive-programming/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
