@@ -22,6 +22,7 @@
 | [0217-contains-duplicate](https://github.com/BoituXZ/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/BoituXZ/competitive-programming/tree/master/0268-missing-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/BoituXZ/competitive-programming/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/BoituXZ/competitive-programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0217-contains-duplicate](https://github.com/BoituXZ/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/BoituXZ/competitive-programming/tree/master/0268-missing-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/BoituXZ/competitive-programming/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/BoituXZ/competitive-programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,4 +64,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/BoituXZ/competitive-programming/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/BoituXZ/competitive-programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 <!---LeetCode Topics End-->
