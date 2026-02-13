@@ -19,6 +19,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/BoituXZ/competitive-programming/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/BoituXZ/competitive-programming/tree/master/0014-longest-common-prefix) |
+| [0073-set-matrix-zeroes](https://github.com/BoituXZ/competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/BoituXZ/competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/BoituXZ/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/BoituXZ/competitive-programming/tree/master/0268-missing-number) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BoituXZ/competitive-programming/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/BoituXZ/competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/BoituXZ/competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/BoituXZ/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/BoituXZ/competitive-programming/tree/master/0268-missing-number) |
@@ -91,5 +93,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/BoituXZ/competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0661-image-smoother](https://github.com/BoituXZ/competitive-programming/tree/master/0661-image-smoother) |
 <!---LeetCode Topics End-->
