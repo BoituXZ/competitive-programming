@@ -22,6 +22,7 @@
 | [0073-set-matrix-zeroes](https://github.com/BoituXZ/competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/BoituXZ/competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/BoituXZ/competitive-programming/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/BoituXZ/competitive-programming/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/BoituXZ/competitive-programming/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/BoituXZ/competitive-programming/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/BoituXZ/competitive-programming/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -42,6 +43,7 @@
 | [0073-set-matrix-zeroes](https://github.com/BoituXZ/competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/BoituXZ/competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/BoituXZ/competitive-programming/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/BoituXZ/competitive-programming/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/BoituXZ/competitive-programming/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/BoituXZ/competitive-programming/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/BoituXZ/competitive-programming/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -63,6 +65,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/BoituXZ/competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/BoituXZ/competitive-programming/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/BoituXZ/competitive-programming/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/BoituXZ/competitive-programming/tree/master/0268-missing-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/BoituXZ/competitive-programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BoituXZ/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -70,6 +73,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/BoituXZ/competitive-programming/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/BoituXZ/competitive-programming/tree/master/0229-majority-element-ii) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/BoituXZ/competitive-programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Divide and Conquer
 |  |
