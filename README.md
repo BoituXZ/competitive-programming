@@ -85,6 +85,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/BoituXZ/competitive-programming/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/BoituXZ/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/BoituXZ/competitive-programming/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/BoituXZ/competitive-programming/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/BoituXZ/competitive-programming/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -120,4 +121,5 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/BoituXZ/competitive-programming/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/BoituXZ/competitive-programming/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
