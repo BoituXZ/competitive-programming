@@ -20,6 +20,7 @@
 | [0001-two-sum](https://github.com/BoituXZ/competitive-programming/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/BoituXZ/competitive-programming/tree/master/0014-longest-common-prefix) |
 | [0073-set-matrix-zeroes](https://github.com/BoituXZ/competitive-programming/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/BoituXZ/competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/BoituXZ/competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/BoituXZ/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/BoituXZ/competitive-programming/tree/master/0229-majority-element-ii) |
@@ -63,6 +64,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/BoituXZ/competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/BoituXZ/competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/BoituXZ/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/BoituXZ/competitive-programming/tree/master/0229-majority-element-ii) |
@@ -114,4 +116,8 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/BoituXZ/competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0661-image-smoother](https://github.com/BoituXZ/competitive-programming/tree/master/0661-image-smoother) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/BoituXZ/competitive-programming/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
