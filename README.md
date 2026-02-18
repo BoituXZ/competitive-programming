@@ -32,6 +32,7 @@
 | [1044-find-common-characters](https://github.com/BoituXZ/competitive-programming/tree/master/1044-find-common-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/BoituXZ/competitive-programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BoituXZ/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1651-shuffle-string](https://github.com/BoituXZ/competitive-programming/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/BoituXZ/competitive-programming/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/BoituXZ/competitive-programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2048-build-array-from-permutation](https://github.com/BoituXZ/competitive-programming/tree/master/2048-build-array-from-permutation) |
@@ -91,6 +92,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/BoituXZ/competitive-programming/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0822-unique-morse-code-words](https://github.com/BoituXZ/competitive-programming/tree/master/0822-unique-morse-code-words) |
 | [1044-find-common-characters](https://github.com/BoituXZ/competitive-programming/tree/master/1044-find-common-characters) |
+| [1651-shuffle-string](https://github.com/BoituXZ/competitive-programming/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/BoituXZ/competitive-programming/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/BoituXZ/competitive-programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Trie
