@@ -40,6 +40,7 @@
 | [2048-build-array-from-permutation](https://github.com/BoituXZ/competitive-programming/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/BoituXZ/competitive-programming/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/BoituXZ/competitive-programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2502-sort-the-people](https://github.com/BoituXZ/competitive-programming/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/BoituXZ/competitive-programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BoituXZ/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/BoituXZ/competitive-programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2502-sort-the-people](https://github.com/BoituXZ/competitive-programming/tree/master/2502-sort-the-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | [0268-missing-number](https://github.com/BoituXZ/competitive-programming/tree/master/0268-missing-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/BoituXZ/competitive-programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BoituXZ/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2502-sort-the-people](https://github.com/BoituXZ/competitive-programming/tree/master/2502-sort-the-people) |
 ## Counting
 |  |
 | ------- |
@@ -98,6 +101,7 @@
 | [1651-shuffle-string](https://github.com/BoituXZ/competitive-programming/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/BoituXZ/competitive-programming/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/BoituXZ/competitive-programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2502-sort-the-people](https://github.com/BoituXZ/competitive-programming/tree/master/2502-sort-the-people) |
 ## Trie
 |  |
 | ------- |
