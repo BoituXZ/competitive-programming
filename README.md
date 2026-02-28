@@ -131,6 +131,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/BoituXZ/competitive-programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/BoituXZ/competitive-programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/BoituXZ/competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/BoituXZ/competitive-programming/tree/master/0125-valid-palindrome) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/BoituXZ/competitive-programming/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/BoituXZ/competitive-programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Recursion
 |  |
 | ------- |
