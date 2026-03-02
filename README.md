@@ -32,6 +32,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/BoituXZ/competitive-programming/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0661-image-smoother](https://github.com/BoituXZ/competitive-programming/tree/master/0661-image-smoother) |
 | [0822-unique-morse-code-words](https://github.com/BoituXZ/competitive-programming/tree/master/0822-unique-morse-code-words) |
+| [1009-pancake-sorting](https://github.com/BoituXZ/competitive-programming/tree/master/1009-pancake-sorting) |
 | [1044-find-common-characters](https://github.com/BoituXZ/competitive-programming/tree/master/1044-find-common-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/BoituXZ/competitive-programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BoituXZ/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -77,6 +78,7 @@
 | [0217-contains-duplicate](https://github.com/BoituXZ/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/BoituXZ/competitive-programming/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/BoituXZ/competitive-programming/tree/master/0268-missing-number) |
+| [1009-pancake-sorting](https://github.com/BoituXZ/competitive-programming/tree/master/1009-pancake-sorting) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/BoituXZ/competitive-programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BoituXZ/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2502-sort-the-people](https://github.com/BoituXZ/competitive-programming/tree/master/2502-sort-the-people) |
@@ -135,6 +137,7 @@
 | [0075-sort-colors](https://github.com/BoituXZ/competitive-programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/BoituXZ/competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/BoituXZ/competitive-programming/tree/master/0125-valid-palindrome) |
+| [1009-pancake-sorting](https://github.com/BoituXZ/competitive-programming/tree/master/1009-pancake-sorting) |
 ## Linked List
 |  |
 | ------- |
@@ -144,4 +147,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/BoituXZ/competitive-programming/tree/master/0002-add-two-numbers) |
+## Greedy
+|  |
+| ------- |
+| [1009-pancake-sorting](https://github.com/BoituXZ/competitive-programming/tree/master/1009-pancake-sorting) |
 <!---LeetCode Topics End-->
