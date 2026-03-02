@@ -9,6 +9,7 @@
 | [0009-palindrome-number](https://github.com/BoituXZ/competitive-programming/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/BoituXZ/competitive-programming/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/BoituXZ/competitive-programming/tree/master/0412-fizz-buzz) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/BoituXZ/competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2491-smallest-even-multiple](https://github.com/BoituXZ/competitive-programming/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/BoituXZ/competitive-programming/tree/master/2556-convert-the-temperature) |
 ## Number Theory
@@ -37,6 +38,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/BoituXZ/competitive-programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BoituXZ/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1651-shuffle-string](https://github.com/BoituXZ/competitive-programming/tree/master/1651-shuffle-string) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/BoituXZ/competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/BoituXZ/competitive-programming/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/BoituXZ/competitive-programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2048-build-array-from-permutation](https://github.com/BoituXZ/competitive-programming/tree/master/2048-build-array-from-permutation) |
@@ -83,6 +85,7 @@
 | [1009-pancake-sorting](https://github.com/BoituXZ/competitive-programming/tree/master/1009-pancake-sorting) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/BoituXZ/competitive-programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BoituXZ/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/BoituXZ/competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/BoituXZ/competitive-programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/BoituXZ/competitive-programming/tree/master/2502-sort-the-people) |
 ## Counting
@@ -154,4 +157,9 @@
 |  |
 | ------- |
 | [1009-pancake-sorting](https://github.com/BoituXZ/competitive-programming/tree/master/1009-pancake-sorting) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/BoituXZ/competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
+## Game Theory
+|  |
+| ------- |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/BoituXZ/competitive-programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
