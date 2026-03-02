@@ -42,6 +42,7 @@
 | [2048-build-array-from-permutation](https://github.com/BoituXZ/competitive-programming/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/BoituXZ/competitive-programming/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/BoituXZ/competitive-programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/BoituXZ/competitive-programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/BoituXZ/competitive-programming/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/BoituXZ/competitive-programming/tree/master/0268-missing-number) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/BoituXZ/competitive-programming/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | [1009-pancake-sorting](https://github.com/BoituXZ/competitive-programming/tree/master/1009-pancake-sorting) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/BoituXZ/competitive-programming/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BoituXZ/competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/BoituXZ/competitive-programming/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/BoituXZ/competitive-programming/tree/master/2502-sort-the-people) |
 ## Counting
 |  |
